@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me text me on gmail.
+- 📫 How to reach me text me on gmail:pavle.kereselidze623@ens.tsu.edu.ge
 
 <!---
 pavlekereselidze/pavlekereselidze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
